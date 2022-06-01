@@ -17,7 +17,7 @@ Work effectively with a high degree of autonomy within a collaboratively minded 
 #### Responsibilities:
 Architect, develop and deploy secure high-quality smart contracts.
 
-### Skills:
+#### Skills:
 - Must: Solidity, Javascript/TypeScript, HardHat/Truffle
 - Nice to have:
   - Deep understanding of DeFi platforms
